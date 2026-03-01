@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://archiver.spider.cloud/sitemap.xml
-
-# Spider Archiver — powered by spider.cloud
