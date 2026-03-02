@@ -286,7 +286,7 @@ const SearchBar = ({
 
   return (
     <>
-      <nav className="border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
+      <nav className="relative z-50 border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="flex items-center gap-3 py-2.5 px-4">
           <a href="https://spider.cloud" target="_blank" rel="noreferrer" className="flex gap-2.5 items-center shrink-0 group">
             <svg height={24} width={24} viewBox="0 0 36 34" xmlns="http://www.w3.org/2000/svg" className="fill-[#3bde77] shrink-0 group-hover:scale-110 transition-transform">
